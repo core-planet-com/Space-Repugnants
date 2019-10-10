@@ -2,7 +2,4 @@
 The Space Repugnants Game
 
 Todo list:
-
--Hypnotic owl
-
--Telescope tree
+https://github.com/orgs/core-planet-com/projects/1
