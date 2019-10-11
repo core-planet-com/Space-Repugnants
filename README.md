@@ -5,7 +5,13 @@ Todo list:
 https://github.com/orgs/core-planet-com/projects/1
 
 Programs & extensions used:
+
 MagicaVoxel 
+
 Python3.7(Miniconda)
-Kivy
+
+Kivy -
+https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
+
 Blender
+
