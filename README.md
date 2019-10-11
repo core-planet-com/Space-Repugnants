@@ -1,5 +1,5 @@
 # Space-Repugnants
-The Space Repugnants Game
+The Space Repugnants Game - to be developed from feb 2020
 
 Todo list:
 https://github.com/orgs/core-planet-com/projects/1
