@@ -6,7 +6,7 @@ https://github.com/orgs/core-planet-com/projects/1
 
 Programs & extensions used:
 
-MagicaVoxel 
+MagicaVoxel & Voxedit
 - https://ephtracy.github.io
 - https://www.voxedit.io
 
@@ -17,5 +17,5 @@ Kivy
 - installation: conda install kivy -c conda-forge
 - https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
 
-Blender
+Blender?
 
