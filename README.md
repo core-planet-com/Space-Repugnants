@@ -10,6 +10,7 @@ MagicaVoxel
 - https://www.voxedit.io
 
 Python3.7(Miniconda)
+- https://docs.conda.io/en/latest/miniconda.html
 
 Kivy 
 - https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
