@@ -17,5 +17,10 @@ Kivy
 - installation: conda install kivy -c conda-forge
 - https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
 
+Sublime 2&3 Text Editor
+
+Sonar
+- mp3 production
+
 Blender?
 
