@@ -7,6 +7,7 @@ https://github.com/orgs/core-planet-com/projects/1
 Programs & extensions used:
 
 MagicaVoxel 
+- https://ephtracy.github.io
 - https://www.voxedit.io
 
 Python3.7(Miniconda)
