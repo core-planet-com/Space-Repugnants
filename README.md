@@ -13,6 +13,7 @@ Python3.7(Miniconda)
 - https://docs.conda.io/en/latest/miniconda.html
 
 Kivy 
+- installation: conda install kivy -c conda-forge
 - https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
 
 Blender
