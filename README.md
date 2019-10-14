@@ -17,6 +17,9 @@ Kivy
 - installation: conda install kivy -c conda-forge
 - https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
 
+3JS
+- https://threejs.org/
+
 Sublime 2&3 Text Editor
 
 Sonar
