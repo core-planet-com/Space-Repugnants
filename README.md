@@ -56,4 +56,4 @@ Year
 50 dollars
 50000 bananos
 
-
+https://www.coingecko.com/en/coins/banano
