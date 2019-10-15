@@ -35,9 +35,17 @@ Nano
 Banano (https://banano.cc/yellowpaper/)
 
 Prices:
-Hours 10 cent
-Day   50 cent
-Month 5 dollars
-Year 50 dollars
+Hour  
+10 cent
+100 bananos
+Day   
+50 cent
+500 bananos
+Month 
+5 dollars
+5000 bananos
+Year 
+50 dollars
+50000 bananos
 
 
