@@ -34,4 +34,10 @@ Doge
 Nano
 Banano (https://banano.cc/yellowpaper/)
 
+Prices:
+Hours 10 cent
+Day   50 cent
+Month 5 dollars
+Year 50 dollars
+
 
