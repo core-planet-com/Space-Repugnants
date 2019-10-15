@@ -32,6 +32,6 @@ Crypto support for:
 Ethereum
 Doge
 Nano
-Banano
+Banano (https://banano.cc/yellowpaper/)
 
 
