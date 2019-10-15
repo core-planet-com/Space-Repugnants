@@ -17,10 +17,48 @@ Kivy
 - installation: conda install kivy -c conda-forge
 - https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
 
+3JS
+- https://threejs.org/
+
 Sublime 2&3 Text Editor
 
 Sonar
 - mp3 production
 
 Blender?
+FMOD?
 
+
+------------------------------------------------------------------------------------------
+Crypto support for:
+Ethereum
+Doge
+Nano
+Banano (https://banano.cc/yellowpaper/)
+
+Prices:
+
+Hour  
+
+10 cent
+100 bananos
+
+Day   
+
+50 cent
+500 bananos
+
+Month 
+
+5 dollars
+5000 bananos
+
+Year 
+
+50 dollars
+50000 bananos
+
+
+------------------------------------------------------------------------------------------
+
+https://www.coingecko.com/en/coins/banano
