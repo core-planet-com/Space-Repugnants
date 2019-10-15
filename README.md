@@ -35,6 +35,7 @@ Nano
 Banano (https://banano.cc/yellowpaper/)
 
 Prices:
+
 Hour  
 10 cent
 100 bananos
