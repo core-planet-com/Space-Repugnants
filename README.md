@@ -28,6 +28,9 @@ Sonar
 Blender?
 FMOD?
 
+Houdini?
+https://www.sidefx.com/tutorials/nodes-networks-digital-assets/
+
 
 ------------------------------------------------------------------------------------------
 Crypto support for:
