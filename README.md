@@ -12,6 +12,7 @@ MagicaVoxel & Voxedit
 
 Python3.7(Miniconda)
 - https://docs.conda.io/en/latest/miniconda.html
+- Github issue: https://github.com/desktop/desktop/issues/2623
 
 Kivy 
 - installation: conda install kivy -c conda-forge
