@@ -69,3 +69,7 @@ https://www.coingecko.com/en/coins/banano
 
 Banano support:
 ban_39nbzynntez9tk4phprxfuy4mo6d5h5dr6fs4ef7esy4k4kk1kf413qybdh7
+
+-----------------------------------------------------------------------------------------
+Sponsor links:
+https://n-9sw05q.nanogames.io/
