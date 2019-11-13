@@ -27,7 +27,7 @@ class Renderer(Widget):
     def __init__(self, **kwargs):
         self.canvas = RenderContext(compute_normal_mat=True)
         self.canvas.shader.source = resource_find('simple.glsl')
-        self.scene = ObjFile(resource_find("3dobj/monkey.obj"))
+        self.scene = ObjFile(resource_find("3dobj/cow.obj"))
         super(Renderer, self).__init__(**kwargs)
         with self.canvas:
             self.cb = Callback(self.setup_gl_context)
