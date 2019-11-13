@@ -12,6 +12,7 @@ MagicaVoxel & Voxedit
 
 Python3.7(Miniconda)
 - https://docs.conda.io/en/latest/miniconda.html
+- Github issue: https://github.com/desktop/desktop/issues/2623
 
 Kivy 
 - installation: conda install kivy -c conda-forge
@@ -27,6 +28,9 @@ Sonar
 
 Blender?
 FMOD?
+
+Houdini?
+https://www.sidefx.com/tutorials/nodes-networks-digital-assets/
 
 
 ------------------------------------------------------------------------------------------
@@ -65,3 +69,7 @@ https://www.coingecko.com/en/coins/banano
 
 Banano support:
 ban_39nbzynntez9tk4phprxfuy4mo6d5h5dr6fs4ef7esy4k4kk1kf413qybdh7
+
+-----------------------------------------------------------------------------------------
+Sponsor links:
+https://n-9sw05q.nanogames.io/
